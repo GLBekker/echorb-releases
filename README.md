@@ -21,7 +21,7 @@ Echorb lets you run multiple Claude Code instances simultaneously, each speciali
 
 - Windows 10/11 (64-bit)
 - Claude Code CLI
-- License key ([get one here](https://echorb.app))
+- License key ([get one here](https://virtual-life.co.za/echorb.html))
 
 ## Installation
 
