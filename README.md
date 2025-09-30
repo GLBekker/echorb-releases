@@ -1,49 +1,34 @@
-# Echorb Desktop - Official Releases
+# Echorb Desktop
 
 Multi-instance Claude Code manager for parallel AI development.
 
 ## Download
 
-**Latest Release: v1.0.0**
+**[Latest Release](../../releases/latest)** - Windows 10/11
 
-### Windows
-- [Download EchorbDesktop-Setup-1.0.0.exe](../../releases/latest)
+## What is Echorb?
+
+Echorb lets you run multiple Claude Code instances simultaneously, each specialized for different tasks (frontend, backend, testing, etc.). Turn your Claude subscription into a complete AI development team.
+
+## Key Features
+
+- Multiple Claude instances with unique roles
+- Git worktree support for parallel development
+- Workflow automation (schedule, webhooks, file watching)
+- Team coordination between instances
+
+## Requirements
+
 - Windows 10/11 (64-bit)
-- 53 MB installer
+- Claude Code CLI
+- License key ([get one here](https://echorb.app))
 
 ## Installation
 
-1. Download the installer for your platform
-2. Run the installer
-3. Launch Echorb from Start Menu or Desktop shortcut
-4. Enter your license key when prompted
-
-## System Requirements
-
-### Windows
-- Windows 10/11 (64-bit)
-- Claude Code CLI installed
-- 4GB RAM minimum
-- 500MB disk space
-
-## Features
-
-- **Multi-Instance Management** - Run multiple specialized Claude Code instances
-- **Git Worktree Support** - Parallel development across branches
-- **Workflow Automation** - Schedule, file watch, webhook, and manual triggers
-- **Team Communication** - Built-in MCP server for instance coordination
-- **License Management** - Powered by Polar.sh
-
-## License
-
-Commercial license required. Get your license at [echorb.app](https://echorb.app)
+1. Download the installer from [Releases](../../releases)
+2. Run the .exe file
+3. Launch Echorb and enter your license key
 
 ## Support
 
-- Documentation: [docs.echorb.app](https://docs.echorb.app)
-- Issues: Use GitHub Issues in this repository
-- Email: support@echorb.app
-
----
-
-**Note:** This repository contains only compiled releases. Source code is not publicly available.
+Questions or issues? [Open an issue](../../issues)
